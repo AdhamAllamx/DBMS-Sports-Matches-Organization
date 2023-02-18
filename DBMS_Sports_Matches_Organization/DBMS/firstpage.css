@@ -1,0 +1,264 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-image: url('hd wallpaper_ fc barcelona, spain, stadium, camp nou, soccer, soccer field.jpg');
+    font-family: sans-serif;
+}
+
+
+
+
+h2 {
+    font-family: 'Calligraffitti';
+    font-weight: 700;
+    font-size: 80px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-400%);
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #F9f1cc;
+}
+
+
+.first {
+    transform: translate(15%,600%);
+}
+
+.btnsa, .btnsam, .btncr, .btnsm, .btnfan {
+    margin-left: 30px;
+}
+
+
+
+.btnfan {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btnfan:hover {
+        background-color: #fff;
+    }
+
+    .btnfan:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btnfan {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+
+
+
+
+
+
+
+.btnsm {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btnsm:hover {
+        background-color: #fff;
+    }
+
+    .btnsm:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btnsm {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+
+
+
+
+.btncr {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btncr:hover {
+        background-color: #fff;
+    }
+
+    .btncr:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btncr {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+
+
+
+.btnsam {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btnsam:hover {
+        background-color: #fff;
+    }
+
+    .btnsam:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btnsam {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+
+
+.btnsam {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btnsam:hover {
+        background-color: #fff;
+    }
+
+    .btnsam:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btnsam {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+
+
+
+
+
+
+
+
+
+.btnsa {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+    .btnsa:hover {
+        background-color: #fff;
+    }
+
+    .btnsa:active {
+        box-shadow: #422800 2px 2px 0 0;
+        transform: translate(2px, 2px);
+    }
+
+@media (min-width: 768px) {
+    .btnsa {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}

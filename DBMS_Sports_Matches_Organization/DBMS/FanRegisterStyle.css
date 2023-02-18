@@ -1,0 +1,58 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('rawimage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+.fanbox {
+    position: absolute;
+    top = 50%;
+    left =50%;
+    transform: translate(190%,0%);
+    width: 350px;
+    height: 840px;
+    padding: 100px 40px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.5);
+}
+
+
+
+h3 {
+    transform: translate(0%,-40%);
+    font-size: 300%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: bisque;
+}
+
+.iblname, .ibluser, .iblpass, .iblid, .iblpn, .iblbd, .iblfa {
+    font-weight: bold;
+    color: #fff;
+    transform: translate(0%,0%);
+}
+
+.txtfan, .txtuser, .txtpass, .txtid, .txtpn, .txtbd, .txtfa {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 40px
+}
+
+.br {
+    transform: translate(300%,60%);
+    color: black;
+}
+
+.txtfan, .txtuser, .txtpass, .txtid, .txtpn, .txtbd, .txtfa {
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16;
+    background-color: transparent;
+}
